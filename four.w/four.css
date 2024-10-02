@@ -1,0 +1,50 @@
+.box{
+    background-color: rgb(250, 227, 202) ;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    font-size: 30px;
+    position: fixed;
+    right: 0;
+    left: 0;
+}
+a:hover {
+    background-color: burlywood;
+    color: rgb(132, 17, 152);
+    padding: 20px;
+    text-decoration: none;
+}
+.box2{
+    box-shadow: 10px 5px 5px burlywood;
+    font-size: 20px;
+    margin-top: 100px;
+      margin-right: 50px;
+      padding: 10px;
+gap: 40px;
+color: rgb(101, 53, 5) ;
+font-weight: bolder;
+text-align: center;
+}
+.box3{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding: 10px;
+    gap: 20px;
+}
+.IMG_1{
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 5px 5px black;
+}
+.IMG_2{
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 5px 5px brown;
+}
+.IMG_3{
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 5px 5px orangered;
+}

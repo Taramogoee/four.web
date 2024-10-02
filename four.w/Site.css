@@ -1,0 +1,64 @@
+.box1{
+    background-color: rgb(250, 227, 202) ;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    font-size: 20px;
+    position: fixed;
+    right: 0;
+    left: 0;
+}
+a:hover {
+    background-color: burlywood;
+    color: rgb(132, 17, 152);
+    padding: 20px;
+    text-decoration: none;
+}
+.box2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 50px;
+    padding: 10px;
+    gap: 20px;
+}
+.photo5{
+    
+    width: 150px;
+    height: 150px;
+    box-shadow: 10px 5px 5px red;
+}
+.photo6{
+    width: 150px;
+    height: 150px;
+    box-shadow: 10px 5px 5px yellow;
+}
+.photo7{
+    width: 150px;
+    height: 150px;
+    box-shadow: 10px 5px 5px green;
+
+}
+.photo8{
+    width: 150px;
+    height: 150px;
+    box-shadow: 10px 5px 5px blue;
+}
+.photo9{
+    width: 150px;
+    height: 150px;
+    box-shadow: 10px 5px 5px purple;
+}
+.box3{
+    box-shadow: 10px 5px 5px rgb(0, 94, 128);
+     display: flex;
+     justify-content: space-evenly;
+     font-size: 15px;
+     margin-top: 100px;
+      margin-right: 50px;
+padding: 10px;
+gap: 40px;
+color: rgb(46, 18, 170) ;
+font-weight: bolder;
+text-align: center;
+} 
